@@ -34,7 +34,7 @@
         "better-scroll": "^1.15.2",
         "dayjs": "^1.8.0",
         "es6-promise": "^4.2.5",
-        "node-sass": "^4.11.0",
+        "node-sass": "^4.13.1",
         "vant": "^1.6.23",
         "vue-custom-scrollbar": "^1.0.0",
         "vue-popperjs": "^2.0.3",
