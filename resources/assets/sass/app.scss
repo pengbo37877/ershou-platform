@@ -1,0 +1,113 @@
+
+// Fonts
+//@import url("https://fonts.googleapis.com/css?family=Lato:100,300,400,700");
+
+// Variables
+@import "variables";
+
+// Bootstrap
+//@import '~bootstrap/scss/bootstrap';
+body{
+  background-color: white;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
+a:visited {
+  text-decoration: none;
+}
+a:active {
+  text-decoration: none;
+}
+a:link {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: none;
+}
+.left{
+  float: left;
+} 
+.right{
+  float: right;
+}
+.center{
+  text-align: center;
+}
+.clear{
+  clear: both;
+}
+.box_cqh {
+  display: flex;
+  display: -webkit-flex;
+  justify-content: space-between;
+  -webkit-justify-content: space-between;
+  align-items: center;
+  -webkit-align-items: center;
+}
+.box_qh {
+  display: flex;
+  display: -webkit-flex;
+  justify-content: space-between;
+  -webkit-justify-content: space-between;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.box_csx {
+  display: flex;
+  display: -webkit-flex;
+  justify-content: space-between;
+  -webkit-justify-content: space-between;
+  flex-direction: column;
+  align-items: center;
+  -webkit-align-items: center;
+}
+.box_be{
+  display: flex;
+  display: -webkit-flex;
+  justify-content: space-around;
+  -webkit-justify-content: space-around;
+}
+.box_c {
+  display: flex;
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+  align-items: center;
+  -webkit-align-items: center;
+}
+.box_cy {
+  display: flex;
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  -webkit-align-items: center;
+}
+.box_box {
+  display: flex;
+  display: -webkit-box;
+  flex-wrap: nowrap;
+}
+.box_h{
+  display: flex;
+  display: -webkit-box;
+  align-items: center;
+  -webkit-align-items: center;
+}
+.box_sx {
+  display: flex;
+  display: -webkit-flex;
+  justify-content: space-between;
+  -webkit-justify-content: space-between;
+  flex-direction: column;
+}
+.box {
+  display: flex;
+  display: -webkit-flex;
+  flex-wrap: wrap;
+}

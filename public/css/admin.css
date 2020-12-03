@@ -1,0 +1,19 @@
+button.danger {
+    border: none;
+    background: #ff851b;
+    color: #fff;
+    font-size: 12px;
+    letter-spacing: 2px;
+}
+div.user {
+    background: #eeeeee;
+    display: inline-block;
+    margin: 5px;
+}
+.reminder-cat-btn {
+    font-size: 11px;
+    border: none;
+    background: #ff851b;
+    margin: 2px;
+    color: #fff;
+}
